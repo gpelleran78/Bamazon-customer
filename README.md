@@ -26,8 +26,5 @@ The second message should ask how many units of the product they would like to b
 
 Once the customer has placed the order, your application should check if your store has enough of the product to meet the customer's request.
 
-If not, the app should log a phrase like Insufficient quantity!, and then prevent the order from going through.
-
-
-
-
+![picture](pictures/Capture1.PNG)
+![picture](pictures/Capture2.PNG)
